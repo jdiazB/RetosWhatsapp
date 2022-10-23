@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:untitled4_semana7/pages/call_page.dart';
 import 'package:untitled4_semana7/pages/chat_page.dart';
-import 'package:untitled4_semana7/pages/widget/status_page.dart';
+import 'package:untitled4_semana7/pages/status_page.dart';
 
 class HomePage extends StatefulWidget {
   const HomePage({Key? key}) : super(key: key);
